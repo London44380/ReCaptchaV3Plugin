@@ -1,9 +1,8 @@
 ![generated-image(1)](https://github.com/user-attachments/assets/c87fcddc-5f7b-48b7-87d5-a229e00ab646)
 
-[](https://github.com/YourUsername/recaptcha-v3-cpp-plugin#recaptcha-v3-cpp-plugin)
 [![License](https://img.shields.io/badge/license-MIT-red)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-brightgreen)]()
-[![Language](https://img.shields.io/badge/language-C%2B%2B17-blue)]()
+[![Language](https://img.shields.io/badge/language-C%2B%2B-blue)]()
 
 ReCaptchaV3Plugin is a cross‑platform C++ library to verify Google reCAPTCHA v3 tokens on the **server side** via a small C API and libcurl.  
 It is designed as a reusable security module you can plug into backends, services, or game engines to validate tokens and enforce a minimum score.
