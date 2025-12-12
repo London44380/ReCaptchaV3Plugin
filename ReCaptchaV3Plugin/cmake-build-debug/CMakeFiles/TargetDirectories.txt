@@ -1,0 +1,4 @@
+/root/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/ReCaptchaV3Plugin.dir
+/root/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/test_plugin.dir
+/root/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/root/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
